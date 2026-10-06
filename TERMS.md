@@ -1,3 +1,5 @@
+> The current terms is at https://www.georgiosstavropoulos.com/terms#ai-usage-limits-macos
+
 # Terms of Service
 
 **AI Usage Monitor** — last updated 2026-08-20

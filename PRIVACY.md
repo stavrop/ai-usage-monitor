@@ -1,3 +1,5 @@
+> The current privacy policy is at https://www.georgiosstavropoulos.com/privacy#ai-usage-limits-macos
+
 # Privacy Policy
 
 **AI Usage Monitor** — last updated 2026-08-20
