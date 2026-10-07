@@ -6,6 +6,9 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+- The privacy policy and terms now live on https://www.georgiosstavropoulos.com (`/privacy#ai-usage-limits-macos`, `/terms#ai-usage-limits-macos`); the old `docs/privacy.html` and `docs/terms.html` redirect there, and `PRIVACY.md` and `TERMS.md` point to the new pages.
+
 ## [0.3.1] - 2026-08-20
 
 ### Added
